@@ -1,8 +1,8 @@
 {
-    "name": "kbsali/redmine-api",
+    "name": "positron48/redmine-api",
     "type": "library",
     "description": "Redmine API client",
-    "homepage": "https://github.com/kbsali/php-redmine-api",
+    "homepage": "https://github.com/positron48/php-redmine-api",
     "keywords": [
         "redmine",
         "api"
