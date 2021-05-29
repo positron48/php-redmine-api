@@ -1,3 +1,7 @@
+# Changes
+* Post issue with json api and unescaped unicode for ability
+  of creating bigger unicode descriptions
+
 # PHP Redmine API
 
 A simple PHP Object Oriented wrapper for Redmine API.
